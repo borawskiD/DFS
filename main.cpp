@@ -122,3 +122,21 @@ int main() {
 
     return 0;
 }
+
+/* DOMINIK BORAWSKI
+A1 215IC */
+/*
+     A
+
+    B   C
+
+  D  E  F  G
+
+ H I J K
+Pre-order:
+A B D H I E J C F K G
+In-order:
+H D I B J E A K F C G
+Post-order:
+H I D J E B K F G C A
+*/
